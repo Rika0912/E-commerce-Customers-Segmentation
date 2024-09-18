@@ -76,7 +76,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
 ### Steps to Run the Code
-1. Place the Excel file (`customer_data.xlsx`) containing the six tables in the same directory as the script.
+1. Place the Excel file (`E-commerce_data.xlsx`) containing the six tables in the same directory as the script.
 2. Adjust the `file_path` variable in the script to match the location of your Excel file.
 3. Run the Python script. The program will load the data, perform clustering, and output visualizations along with recommendations for each customer segment.
 
